@@ -2,7 +2,7 @@
 Bootcamp assignment #1- UF Directory App - Introduction to Asynchronous Web Programming using Node.js
 
 Purpose of this Assignment:
-	In general,
+In general,
 		to start building the knowledge needed to implement a full stack web app
 
 	In particular,
